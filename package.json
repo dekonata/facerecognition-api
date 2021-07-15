@@ -4,7 +4,9 @@
   "description": "Face Recognition Web Application",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+    .....    
   },
   "author": "Kriegler van der Merwe",
   "license": "ISC",
